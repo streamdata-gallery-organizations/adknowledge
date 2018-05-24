@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/312-adknow
 x-kinRank: "8"
 x-alexaRank: "803577"
 tags: Adknowledge
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/adknowledge/master/_listings/adknowledge/apis.md
 specificationVersion: "0.14"
 apis: []
